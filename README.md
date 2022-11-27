@@ -4,6 +4,6 @@
 
 ### Size - $35.9\text{ kB}$, $288$ parameters.
 ### Accuracy:
-* Training set - $98.52$%
-* test set - $100$%
-* advanced test set - $100$%
+### * training set - $98.52$%
+### * test set - $100$%
+### * advanced test set - $100$%
